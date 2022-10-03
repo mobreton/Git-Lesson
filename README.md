@@ -13,3 +13,9 @@
 - Save the file
 - Comit the file and write the mmessage
 - Push to GitHub
+
+## Don't forget
+- Feed the cat
+- Feed the guinea pigs
+- Buy cat food
+- Buy guinea pig food

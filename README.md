@@ -13,5 +13,3 @@
 - Save the file
 - Comit the file and write the mmessage
 - Push to GitHub
-
-And add more text to you file and then stage it again
